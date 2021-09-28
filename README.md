@@ -1,5 +1,5 @@
 
-[![Hacktoberfest 2021](./assets/logo.png)](Link here)
+[![Hacktoberfest 2021](./Assets/banner.png)](https://github.com/wimpywarlord/Hacktober-Wimpy-Style)
 # HacktoberFest 2021
 
 👉**What on earth is HacktoberFest?**
