@@ -3,13 +3,17 @@
 # HacktoberFest 2021
 
 👉**What on earth is HacktoberFest?**
-Some companies decided to gift **T-shirts**, if you contribute to open source in any possible way during the month of **October**. 
 
-I am gonna help you get that **T-shirt**. 
+So a group of companies wanted to spread the word about Open Source, so they decided to keep a month long virtual event, where they reward you if you contribute to open source organisation/repositories. 
+
+They give you **T-shirts** and other cool swags if you contribute to repos/issues tagged under the hacktoberfest label. 
+
+I am gonna help you get that **T-shirt** and also get you started with your open source journey. 
 
 All you need to do is open 4 Pull Requests (Relax, Just read along).
 
 **Start your Open source Journey in Wimpy Style.**
+
 👉First step is to get registered [here](https://hacktoberfest.digitalocean.com/).
 
 👉Now that you registered, you need to make 4 PRs, but sadly you have no idea what the fu*ck that means. 
