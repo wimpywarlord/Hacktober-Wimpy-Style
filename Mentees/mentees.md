@@ -6,3 +6,4 @@
 | 2. | Divyansh Raj | [Twitter](https://twitter.com/divyanshraj04) | `Just Awesome` |
 | 3. | Soham Bhattacharjee | [LinkedIn](https://www.linkedin.com/in/sohambhattacharjee/)  | `Always OP!` |
 | 4. | Shubhi Paul | [Github](https://github.com/Shubhi-Paul)  | `Konnichiwa ^-^` |
+| 5. | Sarthak Rajput | [LinkedIn](https://www.linkedin.com/in/sarthak-rajput-6b924a15b/)  | `chillax` |
