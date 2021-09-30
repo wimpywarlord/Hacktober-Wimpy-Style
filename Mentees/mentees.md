@@ -9,5 +9,5 @@
 | 5. | Sarthak Rajput | [LinkedIn](https://www.linkedin.com/in/sarthak-rajput-6b924a15b/)  | `chillax` |
 | 6. | Ayan Acharya | [github](https://github.com/AveAng02) | `Valar Morgulis` |
 | 7. | Arhit Bose Tagore | [GitHub](https://github.com/CaptAlpha)  | `I'm an Extreme Newbie` |
-| 8. | Rajeet | [Github Id](https://github.com/Rajeet10)  | `Cooool Coool Cool` |
+| 8. | Rajeet Chaudhary | [Github](https://github.com/Rajeet10)  | `Cooool Coool Cool` |
 | 9. | Rachana | [Github](https://github.com/rachana-singh27) | `Enjoying the hack :)` |
