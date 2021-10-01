@@ -1,16 +1,13 @@
 
 [![Hacktoberfest 2021](./Assets/banner.png)](https://github.com/wimpywarlord/Hacktober-Wimpy-Style)
 # HacktoberFest 2021
+Hacktoberfest is a month-long challenge. It happens every year in the month of October.
+
+Hacktoberfest is open to everyone and it marks the celebration of Open Source. It's the biggest Open Source event that encourages newbies to participate in Open Source and create their 1st meaningful PR.
 
 👉**What on earth is HacktoberFest?**
 
-So a group of companies wanted to spread the word about Open Source, so they decided to keep a month long virtual event, where they reward you if you contribute to open source organisation/repositories. 
-
-They give you **T-shirts** and other cool swags if you contribute to repos/issues tagged under the hacktoberfest label. 
-
-I am gonna help you get that **T-shirt** and also get you started with your open source journey. 
-
-All you need to do is open 4 Pull Requests (Relax, Just read along).
+It is a virtual initiative taken by Digital Ocean to spread the word ar
 
 **Start your Open source Journey in Wimpy Style.**
 
